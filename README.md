@@ -1,1 +1,1 @@
-# SQL-Project-Sales-
+# SQL Sales Analytics Project
